@@ -1,24 +1,29 @@
-# README
+# アプリケーション名
+AKIND-KUN
+## アプリケーション概要
+商談から納車まで一括して管理できるメモアプリ
+## URL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## テスト用アカウント
 
-Things you may want to cover:
+## 利用方法
 
-* Ruby version
+## アプリケーションを作成した背景
 
-* System dependencies
+## 洗い出した要件
 
-* Configuration
+## 実装した機能についての画像やGIFおよびその説明
 
-* Database creation
+## 実装予定の機能
 
-* Database initialization
+## データベース設計
 
-* How to run the test suite
+## 画面遷移図
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
 
-* Deployment instructions
+## ローカルでの動作方法
 
-* ...
+## 工夫したポイント
+
+
