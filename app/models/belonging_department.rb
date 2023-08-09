@@ -7,4 +7,7 @@ class BelongingDepartment < ActiveHash::Base
     { id: 5, name: 'D店' },
     { id: 6, name: 'E店' },
   ]
-  end
+
+  include ActiveHash::Associations
+  has_many :users
+end
