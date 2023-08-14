@@ -10,3 +10,17 @@
   background-color: #FFFFFF;
   width: calc(100vw - 300px);
 }
+
+
+
+.main-header {
+  height: 100px;
+}
+.customers-data {
+  background-color: #FAFAFA;
+  height: calc(100vh - 100px - 90px);
+}
+.form {
+  background-color: #DDDDDD;
+  height: 90px;
+}
