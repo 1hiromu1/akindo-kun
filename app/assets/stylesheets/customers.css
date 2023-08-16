@@ -15,19 +15,23 @@
 
 .main-header {
   height: 100px;
+  padding: 0 40px;
 }
 .customers-data {
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
+  padding: 46px 40px 0;
 }
 .form {
   background-color: #DDDDDD;
   height: 90px;
+  padding: 20px 40px;
 }
 
 
 .side-bar-header {
   height: 100px;
+  padding: 0 20px;
 }
 .client-lists {
   background-color: #2F3E51;
