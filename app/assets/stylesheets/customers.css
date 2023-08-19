@@ -48,10 +48,14 @@
   padding: 20px 40px;
 }
 
-.user-name a{
+.belonging-department{
   font-size: 16px;
   color: #FAFAFA;
-  text-decoration: none;
+}
+
+.user-name{
+  font-size: 16px;
+  color: #FAFAFA;
 }
 
 .logout a {
