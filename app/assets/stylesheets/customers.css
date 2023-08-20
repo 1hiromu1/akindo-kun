@@ -12,7 +12,7 @@
 }
 
 
-
+/* メイン画面 */
 .main-header {
   height: 100px;
   padding: 0 40px;
@@ -42,18 +42,29 @@
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
 }
-.form {
+.footer {
   background-color: #DDDDDD;
   height: 90px;
   padding: 20px 40px;
 }
+/* メイン画面 */
 
-.belonging-department{
+/* サイドバー */
+.side-bar-header {
+  height: 100px;
+  padding: 0 20px;
+  background-color: #253141;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.belonging-department {
   font-size: 16px;
   color: #FAFAFA;
 }
 
-.user-name{
+.user-name {
   font-size: 16px;
   color: #FAFAFA;
 }
@@ -65,17 +76,6 @@
   color: deepskyblue;
   text-decoration: none;
 }
-
-
-.side-bar-header {
-  height: 100px;
-  padding: 0 20px;
-  background-color: #253141;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 
 .client-lists {
   background-color: #2F3E51;
@@ -98,3 +98,4 @@
   color: white;
   margin-left: 20px;
 }
+/* サイドバー */
